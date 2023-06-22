@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "715566537081",
+    "project_id": "alvision-6fdc8",
+    "storage_bucket": "alvision-6fdc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715566537081:android:e2ba97c1e6d2c77d6637a8",
+        "android_client_info": {
+          "package_name": "com.example.alinvision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715566537081-1d6d1fvq7oc937v3a5sr9barrf5hkc44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alinvision",
+            "certificate_hash": "a875f7831ce869f8415b028d6efc5fc1aed99787"
+          }
+        },
+        {
+          "client_id": "715566537081-v2obvcim86nc1t4cimrjjb7kk1phvmk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOFiUlPPWhiYTkU6XZDGX5Ja2SIL5TtIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715566537081-v2obvcim86nc1t4cimrjjb7kk1phvmk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

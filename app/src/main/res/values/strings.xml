@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Al Vision</string>
+    <string name="app_in_name">Al Vision</string>
+    <string name="app_name_after">Добро пожаловать</string>
+    <string name="text_bottom">DEMO</string>
+    <string name="btn_sign">Войти</string>
+    <string name="btn_register">Зарегистрироваться</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Главная</string>
+    <string name="title_dashboard">Наблюдение</string>
+    <string name="title_notifications">Профиль</string>
+    <string name="scan_camera">ДОБАВИТЬ КАМЕРУ</string>
+    <string name="title_block_text">Для добавления камеры,\nвам необходимо:</string>
+    <string name="qrcode_text">Отсканировать \nQR-Код камеры</string>
+    <string name="barcode_text">Отсканировать \nШтрих-Код упаковки</string>
+</resources>
